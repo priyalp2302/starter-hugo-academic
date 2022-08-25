@@ -16,8 +16,8 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: Resume
-    url: '#static/uploads/Priyal_Padheriya_Resume.pdf'
+  - name: CV
+    url: 'uploads/Priyal_Padheriya_Resume.pdf'
     weight: 50
   - name: Contact
     url: '#contact'
