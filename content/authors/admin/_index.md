@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:priyalp2302@gmail.com'
   - icon: linkein
     icon_pack: fab
     link: https://www.linkedin.com/in/priyalpadheriya2302/
