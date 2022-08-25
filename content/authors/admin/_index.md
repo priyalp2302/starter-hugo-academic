@@ -26,13 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Science, Computer Science, 2023
+    - course: Master of Science, Computer Science
       institution: Arizona State University, USA
       year: 2023
-    - course: Bachelor of Technology, Information Technology (Major), 2021
+    - course: Bachelor of Technology, Information Technology (Major)
       institution: Nirma University, Ahmedabad, India
       year: 2021
-    - course: Bachelor of Technology, Finance (Minor), 2021
+    - course: Bachelor of Technology, Finance (Minor)
       institution: Nirma University, Ahmedabad, India
       year: 2021
 
