@@ -43,7 +43,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:priyalp2302@gmail.com'
-  - icon: linkein
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/priyalpadheriya2302/
   - icon: cv
