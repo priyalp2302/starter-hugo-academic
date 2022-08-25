@@ -6,7 +6,7 @@ title: Priyal Padheriya
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Researcher at The Luminosity Lab, ASU | MS CS @ Arizona State University
 
 # Organizations/Affiliations to show in About widget
 organizations:
