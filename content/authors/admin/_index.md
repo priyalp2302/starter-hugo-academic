@@ -72,4 +72,4 @@ Currently, I am working part-time as a Graduate Researcher at {{< staticref "htt
 Talking about the non-technical skills, I love to cook new recipes, explore different places, and dance. I enjoy meeting new people and learn about their culture. Currently, I am looking for full time opportunities in the field of Computer Science, please reach out if you feel I am a good fit for your organization or know someone offering similar opportunities.
 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Priyal_Padheriya_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Priyal_Padheriya_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
