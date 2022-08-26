@@ -65,8 +65,11 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Priyal Padheriya and I am currently pursuing my Masters of Science in Computer Science at Arizona State University (ASU). I completed my Bachelor of Technology from Nirma Univeristy with Information Technlogy as a major and Finance as a minor. Also, I will be attending Grace Hopper Celebration 2022 and I am super excited about that!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am working part-time as a Graduate Researcher at {{< staticref "https://theluminositylab.com" "newtab" >}}The Luminosity Lab{{< /staticref >}}. Before coming to ASU, I worked as a Software Developer at PlayPower Labs where I worked on developing an Invenotory Management System for local businesses using MEAN stack. This is where I got to put my knowledge of computer science for real-world applications. Apart from this, I have also interned as a Project Manager at Ajmera Infotech Pvt. Ltd. where I got a chance to learn about how a project is planned from the very beginning. Redpen.ai and JoinUs.ai are the two projects I wrecked on during my internship. Apart from this, I have always been curious to learn more about web development and I also freelanced as Web Developer to help create websites for local startups.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Priyal_Padheriya_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Talking about the non-technical skills, I love to cook new recipes, explore different places, and dance. I enjoy meeting new people and learn about their culture. Currently, I am looking for full time opportunities in the field of Computer Science, please reach out if you feel I am a good fit for your organization or know someone offering similar opportunities.
+
+
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Priyal_Padheriya_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
