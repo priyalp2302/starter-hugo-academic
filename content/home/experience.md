@@ -37,7 +37,7 @@ experience:
   - title: Verifier, Admission Services
     company: Arizona State University
     company_url: 'https://www.asu.edu'
-    company_logo: 
+    company_logo: ''
     location: Tempe, Arizona
     date_start: '2022-02-01'
     date_end: '2022-05-31'
@@ -49,7 +49,7 @@ experience:
   - title: Software Developer 
     company: PlayPower Labs
     company_url: 'https://www.playpowerlabs.com'
-    company_logo: 
+    company_logo: ''
     location: Gandhinagar, India
     date_start: '2021-06-01'
     date_end: '2021-10-31'
@@ -58,11 +58,11 @@ experience:
         * Implemented upgraded versions of the Inventory Management System to incorporate more features.
         * Engineered full-stack application using MEAN stack, handled database, deployed the application to cloud using AWS, solved bugs, and improved efficiency of the system by 30%.
 
-  - title: Program Coo-ordinator
+  - title: Program Coordinator
     company: Inspiron Technologies
-    company_url: ''
+    company_url: 'https://www.playpowerlabs.com'
     company_logo: 
-    location: Gujarat, India
+    location: Gandhinagar, India
     date_start: '2020-01-01'
     date_end: '2020-04-31'
     description: |2-
