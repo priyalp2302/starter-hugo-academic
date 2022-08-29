@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Researcher
-    company: The Luminosity Lab, Arizona State University
-    company_url: ''
+    company: The Luminosity Lab
+    company_url: 'https://theluminositylab.com'
     company_logo: org-gc
     location: Tempe, Arizona
     date_start: '2022-06-01'
