@@ -58,7 +58,7 @@ experience:
         * Implemented upgraded versions of the Inventory Management System to incorporate more features.
         * Engineered full-stack application using MEAN stack, handled database, deployed the application to cloud using AWS, solved bugs, and improved efficiency of the system by 30%.
 
-  - title: Verifier, Admission Services
+  - title: Program Manager
     company: Arizona State University
     company_url: 'https://www.asu.edu'
     company_logo: ''
