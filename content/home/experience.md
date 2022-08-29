@@ -79,8 +79,8 @@ experience:
     date_end: '2020-04-30'
     description: |2-
     
-        * Meticulously verified the application documents of prospective ASU students with attention to detail.
-        * Processed over 50+ transcripts daily in the indexing system with over 90% accuracy thereby decreasing the overall processing time by 4 days every month.
+        * Prepared project reports created a WordPress website for an education app, and improved its SEO score by 20%.
+        * Tested the app for bugs and documented different validation procedures, improving efficiency by up to 50%.
 
 design:
   columns: '2'
