@@ -60,7 +60,7 @@ experience:
 
   - title: Program Manager Intern
     company: Ajmera Infotech
-    company_url: 'https://www.asu.edu'
+    company_url: 'https://www.ajmerainfotech.com'
     company_logo: ''
     location: Ahmedabad, India
     date_start: '2021-01-01'
@@ -72,7 +72,7 @@ experience:
 
   - title: Project Coordinator
     company: Inspiron Technologies
-    company_url: 'https://www.asu.edu'
+    company_url: 'https://inspironbusiness.com'
     company_logo: ''
     location: Gandhinagar, India
     date_start: '2020-02-01'
