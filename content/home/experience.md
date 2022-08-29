@@ -58,18 +58,6 @@ experience:
         * Implemented upgraded versions of the Inventory Management System to incorporate more features.
         * Engineered full-stack application using MEAN stack, handled database, deployed the application to cloud using AWS, solved bugs, and improved efficiency of the system by 30%.
 
-  - title: Program Manager Intern
-    company: Ajmera Infotech Pvt Ltd
-    company_url: 'https://www.ajmerainfotech.com'
-    company_logo: 
-    location: Ahmedabad, India
-    date_start: '2021-01-01'
-    date_end: '2021-04-31'
-    description: |2-
-    
-        * Responsible for planning of two products, job interview portal and chrome extension and leading a team of 12 developers. Duties included MVP creation, documenting requirements, wireframe development using Figma, feature testing, and product delivery.
-        * Leveraged project management software JIRA to track the progress of the project and used Git for version control.
-
 design:
   columns: '2'
 ---
