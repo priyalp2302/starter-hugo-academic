@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
     
-        * Working on developing the Rodel Arizona Futures Stimulator, an interactive simulator that provides enhanced decision-making using ReactJS and Python. Responsible for analyzing the effects of business decisions based on past data of around 30 years.
+        * Working on developing an interactive simulator for the state of Arizona that provides enhanced decision-making using ReactJS and Python. Responsible for analyzing the effects of business decisions based on past data of around 30 years.
         * Testing the performance of aggregation of data and improving it using Python to display the stimulation state on the front end.
 
   - title: Verifier, Admission Services
@@ -59,7 +59,7 @@ experience:
         * Engineered full-stack application using MEAN stack, handled database, deployed the application to cloud using AWS, solved bugs, and improved efficiency of the system by 30%.
 
   - title: Program Manager Intern
-    company: Arizona State University
+    company: Ajmera Infotech
     company_url: 'https://www.asu.edu'
     company_logo: ''
     location: Tempe, Arizona
@@ -71,7 +71,7 @@ experience:
         * Processed over 50+ transcripts daily in the indexing system with over 90% accuracy thereby decreasing the overall processing time by 4 days every month.
 
   - title: Project Coordinator
-    company: Arizona State University
+    company: Inspiron Technologies
     company_url: 'https://www.asu.edu'
     company_logo: ''
     location: Tempe, Arizona
