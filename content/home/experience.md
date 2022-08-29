@@ -58,13 +58,13 @@ experience:
         * Implemented upgraded versions of the Inventory Management System to incorporate more features.
         * Engineered full-stack application using MEAN stack, handled database, deployed the application to cloud using AWS, solved bugs, and improved efficiency of the system by 30%.
 
-  - title: Program Manager Intern 
-    company: Ajmera Infotech
-    company_url: 'https://www.ajmerainfotech.com'
+  - title: Program Coo-ordinator
+    company: Inspiron Technologies
+    company_url: ''
     company_logo: 
-    location: Ahmedabad, India
-    date_start: '2021-01-01'
-    date_end: '2021-04-31'
+    location: Gujarat, India
+    date_start: '2020-01-01'
+    date_end: '2020-04-31'
     description: |2-
     
         * Implemented upgraded versions of the Inventory Management System to incorporate more features.
