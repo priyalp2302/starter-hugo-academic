@@ -62,7 +62,7 @@ experience:
     company: Ajmera Infotech
     company_url: 'https://www.asu.edu'
     company_logo: ''
-    location: Tempe, Arizona
+    location: Ahmedabad, India
     date_start: '2022-02-01'
     date_end: '2022-05-31'
     description: |2-
@@ -74,7 +74,7 @@ experience:
     company: Inspiron Technologies
     company_url: 'https://www.asu.edu'
     company_logo: ''
-    location: Tempe, Arizona
+    location: Gandhinagar, India
     date_start: '2022-02-01'
     date_end: '2022-05-31'
     description: |2-
