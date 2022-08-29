@@ -58,7 +58,7 @@ experience:
         * Implemented upgraded versions of the Inventory Management System to incorporate more features.
         * Engineered full-stack application using MEAN stack, handled database, deployed the application to cloud using AWS, solved bugs, and improved efficiency of the system by 30%.
 
-  - title: Program Manager
+  - title: Program Manager Intern
     company: Arizona State University
     company_url: 'https://www.asu.edu'
     company_logo: ''
@@ -70,7 +70,7 @@ experience:
         * Meticulously verified the application documents of prospective ASU students with attention to detail.
         * Processed over 50+ transcripts daily in the indexing system with over 90% accuracy thereby decreasing the overall processing time by 4 days every month.
 
-  - title: Verifier, Admission Services
+  - title: Project Coordinator
     company: Arizona State University
     company_url: 'https://www.asu.edu'
     company_logo: ''
