@@ -22,19 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Researcher
+    company: The Luminosity Lab, Arizona State University
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Tempe, Arizona
+    date_start: '2022-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    
+        * Working on developing the Rodel Arizona Futures Stimulator, an interactive simulator that provides enhanced decision-making using ReactJS and Python. Responsible for analyzing the effects of business decisions based on past data of around 30 years.
+        * Testing the performance of aggregation of data and improving it using Python to display the stimulation state on the front end.
 
   - title: Professor of Semiconductor Physics
     company: University X
