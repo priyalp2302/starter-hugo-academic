@@ -41,10 +41,7 @@ experience:
     location: Tempe, Arizona
     date_start: '2012-02-01'
     date_end: '2022-05-31'
-    description: |2-
-    
-        * Meticulously verified the application documents of prospective ASU students with attention to detail.
-        * Processed over 50+ transcripts daily in the indexing system with over 90% accuracy thereby decreasing the overall processing time by 4 days every month.
+    description: expreincefefdsvsvs
 
 
 
