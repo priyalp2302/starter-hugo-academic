@@ -25,7 +25,7 @@ experience:
   - title: Researcher
     company: The Luminosity Lab
     company_url: 'https://theluminositylab.com'
-    company_logo: org-gc
+    company_logo: ''
     location: Tempe, Arizona
     date_start: '2022-06-01'
     date_end: ''
@@ -34,13 +34,13 @@ experience:
         * Working on developing the Rodel Arizona Futures Stimulator, an interactive simulator that provides enhanced decision-making using ReactJS and Python. Responsible for analyzing the effects of business decisions based on past data of around 30 years.
         * Testing the performance of aggregation of data and improving it using Python to display the stimulation state on the front end.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+  - title: Verifier: Admission Services
+    company: Arizona State University
+    company_url: 'https://www.asu.edu'
+    company_logo: 
+    location: Tempe, Arizona
+    date_start: '2022-02-01'
+    date_end: '2022-05-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
