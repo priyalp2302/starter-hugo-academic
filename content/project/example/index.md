@@ -1,6 +1,7 @@
  - title: Smart City Development through Big Data Analytics
- - summary: An example of using the in-built project page.
- - tags:
+   summary: An example of using the in-built project page.
+    tags:
+ 
  
 
  # Optional external URL for project (replaces project detail page).
