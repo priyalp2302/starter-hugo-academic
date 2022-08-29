@@ -69,7 +69,6 @@ experience:
     
         * Responsible for planning of two products, job interview portal and chrome extension and leading a team of 12 developers. Duties included MVP creation, documenting requirements, wireframe development using Figma, feature testing, and product delivery.
         * Leveraged project management software JIRA to track the progress of the project and used Git for version control.
-        * Created dashboards to help developers track their progress and prioritize tasks which increased the work efficiency by 40%.
 
 design:
   columns: '2'
