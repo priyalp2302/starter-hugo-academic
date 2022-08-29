@@ -63,8 +63,8 @@ experience:
     company_url: 'https://www.asu.edu'
     company_logo: ''
     location: Ahmedabad, India
-    date_start: '2022-02-01'
-    date_end: '2022-05-31'
+    date_start: '2021-01-01'
+    date_end: '2021-04-30'
     description: |2-
     
         * Meticulously verified the application documents of prospective ASU students with attention to detail.
@@ -75,8 +75,8 @@ experience:
     company_url: 'https://www.asu.edu'
     company_logo: ''
     location: Gandhinagar, India
-    date_start: '2022-02-01'
-    date_end: '2022-05-31'
+    date_start: '2020-02-01'
+    date_end: '2020-04-30'
     description: |2-
     
         * Meticulously verified the application documents of prospective ASU students with attention to detail.
