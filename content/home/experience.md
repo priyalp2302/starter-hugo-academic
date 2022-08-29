@@ -41,9 +41,7 @@ experience:
     location: Tempe, Arizona
     date_start: '2012-02-01'
     date_end: '2022-05-31'
-    description: expreincefefdsvsvs
-
-
+    description: expreincefefdsvsv
 
 design:
   columns: '2'
