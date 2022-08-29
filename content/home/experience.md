@@ -59,5 +59,5 @@ experience:
         * Engineered full-stack application using MEAN stack, handled database, deployed the application to cloud using AWS, solved bugs, and improved efficiency of the system by 30%.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
