@@ -30,15 +30,15 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Google IT Support Professional Certificate
-    url: ''
+    url: 'https://www.coursera.org/professional-certificates/google-it-support?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-it-support_google_FTCOF_professional-certificates_arte-agency_degree&utm_content=B2C&campaignid=18004738734&adgroupid=141678228124&device=c&keyword=it%20support%20certification&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=615927265427&hide_mobile_promo'
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+    description: ''
+    organization: Google
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    title: Advanced Google Analytics
+    url: ''
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
