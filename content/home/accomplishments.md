@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.credly.com/badges/b9594a8f-e2bc-4976-9022-ad4b4eb47e2d?source=linked_in_profile
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020-08-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Google IT Support Professional Certificate
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
