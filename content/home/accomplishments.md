@@ -35,9 +35,9 @@ item:
     date_end: '2023-08-29'
     date_start: '2020-08-01'
     description: ''
-    organization: Google
+    organization: Google Analytics
     organization_url: https://analytics.google.com/analytics/academy/
-    title: Google Analytics
+    title: Google Analytics Certificate
     url: 'https://analytics.google.com/analytics/academy/course/6'
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
