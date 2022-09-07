@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Prediction of Depressive Symptoms using Machine Learning Classifiers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -65,8 +65,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
+  
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
