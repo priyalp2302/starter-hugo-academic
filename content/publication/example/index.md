@@ -27,7 +27,7 @@ publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
 publication: Cognitive Sensors with IOP 2022
-publication_short: In *IOP*
+publication_short: In *Cognitive Sensors - IOP*
 
 abstract: An effective prediction methodology for detecting depressive symptoms is crucial in today’s fast-paced modern world. Depression has become one of the most common forms of mental disorder in people all around the world due to a lack of awareness in society and even among healthcare professionals. Detecting depression at an early stage can help in taking preventive measures to cure the depression and also reduce the number of suicidal cases. With no single definitive test available to detect depression, numerous work has been proposed to use advanced machine learning algorithms to detect the signs of depression. The main objective of the chapter is to provide elementary components necessary to predict depression symptoms. Further, it aims on determining how different machine learning classifiers can be used to predict these symptoms in a person. This can be achieved by collecting data from social media texts, facial images, and audio-visual representations. To predict depressive symptoms we recommend using machine learning as a systematized and extensible approach. The evaluation metrics of different machine learning classifiers are used to choose the most efficient model for predicting depressive symptoms. In conclusion, we aim to find the best approach using machine learning models to find the most accurate method to predict the symptoms of depression and provide feedback on the pros and cons of using each of these classifiers. We aim to research how integrating machine learning with depression detection can be a major advancement in the field of mental healthcare.
 
@@ -76,12 +76,12 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the _Slides_ button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
