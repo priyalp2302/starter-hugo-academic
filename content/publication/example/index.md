@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Frontiers in Big Data**](https://www.frontiersin.org/articles/10.3389/fdata.2020.00015/full)'
   focal_point: ''
   preview_only: false
 
