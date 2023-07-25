@@ -6,7 +6,7 @@ title: Priyal Padheriya
 superuser: true
 
 # Role/position/tagline
-role: Graduate Researcher at The Luminosity Lab, ASU | Graduate Student, Computer Science
+role: IT Intern at Discount Tire | Graduate Researcher at The Luminosity Lab, ASU | Graduate Student, Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,15 @@ organizations:
     url: https://www.asu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Looking for full-time Software Engineering roles starting from December 2023. Please reach out if you think I am a good fit at your organization.
+bio: Looking for full-time Data Analyst and Software Developer roles starting from December 2023. Please reach out if you think I am a good fit at your organization.
 
 # Interests to show in About widget
 interests:
-  - Full Stack Software Development 
-  - Web Development
-  - Product Management
   - Data Analytics
+  - Product Management
+  - Full Stack Software Development 
+    
+
 
 # Education to show in About widget
 education:
