@@ -22,7 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher
+  - title: Information Technology Intern
+    company: Discount Tire
+    company_url: 'https://www.discounttire.com'
+    company_logo: ''
+    location: Scotssdale, Arizona
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+    
+        * Designing a strategic business requirement plan to forecast M&A success and define scope, timelines, and criticality.
+        * Performing statistical analysis on structured SQL data, leveraging ETL, Amazon Redshift and DBeaver, to enhance customer grouping accuracy by 18% and boost customer retention rate by 25% through strategic clustering and segmentation models.
+        * Implementing tailored customer-centric & data-driven solutions by utilizing Tableau, resulting in 10% reduction in customer churn rate.
+    
+  - title: Research Analyst
     company: The Luminosity Lab
     company_url: 'https://theluminositylab.com'
     company_logo: ''
@@ -31,8 +44,11 @@ experience:
     date_end: ''
     description: |2-
     
-        * Working on developing an interactive simulator for the state of Arizona that provides enhanced decision-making using ReactJS and Python. Responsible for analyzing the effects of business decisions based on past data of around 30 years.
-        * Testing the performance of aggregation of data and improving it using Python to display the stimulation state on the front end.
+        * Researched, designed, and developed an innovative cross-platform web interface for a simulator, utilizing React and Three.js to elevate application responsiveness by 75% and user engagement by 28%.
+        * Executed project shifting to Docker using Python & MongoDB, slashing app crash timing by 88% & generating $2.11 million profit.
+        * Utilized R & SAS data analysis to forecast future data with 88% accuracy, leveraging 30 years of generational data for strategic insights.
+        * Developed mathematical machine learning model to predict education & employment rates for state of Arizona with 80% accuracy.
+        * Gained actionable insights by data visualization to produce 20% better business decisions & 15% enhanced socio-economic growth.
 
   - title: Verifier, Admission Services
     company: Arizona State University
@@ -55,8 +71,9 @@ experience:
     date_end: '2021-10-31'
     description: |2-
     
-        * Implemented upgraded versions of the Inventory Management System to incorporate more features.
-        * Engineered full-stack application using MEAN stack, handled database, deployed the application to cloud using AWS, solved bugs, and improved efficiency of the system by 30%.
+        * Built decision tree based predictive model to forecast inventory demand, reducing holding cost by 60%, resulting in $3.27 million profit.
+        * Leveraged Google Analytics to analyze multi-dimensional dataset & provide quantitative insights for understanding consumer behaviour.
+        * Implemented authentication framework & API using Java, significantly strengthening security for inventory management system by 36%.
 
   - title: Program Manager Intern
     company: Ajmera Infotech
@@ -67,9 +84,9 @@ experience:
     date_end: '2021-04-30'
     description: |2-
     
-        * Responsible for planning of two products – job interview portal and chrome extension and leading a team of 12 developers. Duties included MVP creation, documenting requirements, wireframe development using Figma, feature testing, and product delivery.
-        * Leveraged project management software JIRA to track the progress of the project and used Git for version control.
-        * Created dashboards to help developers track their progress and prioritize tasks which increased the work efficiency by 40%.
+        * Led a 12-member cross-functional team for designing vision of a web extension by aligning relevant research and resources.
+        * Conducted product analysis using Business Intelligence tools, identifying 13% MVP scope crunch to mitigate potential loss of $2.3 million.
+        * Articulated technical & business acumen to boost web extension’s ability by crafting user stories & leveraging data visualization for campaign targeting, resulting in 60K customer acquisition in 4 months.
 
   - title: Project Coordinator
     company: Inspiron Technologies
